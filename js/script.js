@@ -13,6 +13,8 @@ var favSport = "Baseball"                   //Sons favorite sport           Stri
 
 // Output
 
-console.log ("I have " + numKids + " they are awesome! But I would like to tell you some about them. \n" + kids[0] +
+console.log ("I have " + numKids + " kids and they are awesome! But I would like to tell you some about them. \n" + kids[0] +
     " was my first born she is now " + age[0] + ". She likes to play video games and her favorite game is " + favGame + ".")
+console.log ("My second child is " + kids[1] + ", he just turned " + age[1] + " back in June. He really thinks he is big now. \n " +
+    " It is " + favColor + " that blue is Jodeah\'s favorite color." )
 
