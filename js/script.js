@@ -2,6 +2,10 @@
  * Created by JarrodSmith on 10/1/15.
  */
 
+    //Jarrod smith
+    //SDI Section 1
+    //Output Assignment
+
 // Variables
 
 var numKids = 3                             //Number of kids    int variable
